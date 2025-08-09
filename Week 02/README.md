@@ -38,3 +38,20 @@ public class Mover : MonoBehaviour
     }
 }
 ```
+
+## Studio 2 - Thur 07/08/2025
+### What we did:
+- Made sketches of what the app would look like.
+- Create a concept for the application.
+- Start creating a prototype.
+
+### Reflection:
+- I came in late and did not come to the previous studio so I had to quickly catch up with the others.\
+  Started off with sketching out my app idea and its interfaces.\
+  Thought about how it's going to function, what gestures, etc.\
+  My three main gestures:
+  - Drag and drop item
+  - To throw away, quickly drag it out of sight.
+  - To undo and redo, make circle with hand anticlockwise (undo) and clockwise (redo).\
+  The prototype was simply just a couch, performed a test with 2 participants, told them to do the gestures\
+  While I make the motion with the couch.
