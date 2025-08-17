@@ -21,7 +21,7 @@ This testing plan will use task-based testing to evaluate a digital prototype ma
 The prototype was designed to do the three main interactions which are dragging and dropping an object, rotate an object, and removing an object. 
 It will display some furniture objects inside a tab. The tab will exist in the space of the plane where a room will exist. The room will be simple with just one window. The features that will exist are the tab where users can pick the object to drop into the plane. There will be a wall with basic explanation with how to interact with the space. 
 - Sketch:
-  ![Sketch Prototype](/images/sketch.png)
+  ![Sketch Prototype](/Images/sketch.png)
  
 ### Data collection method
 During the testing process, I will be observing the participants, seeing any pain points. I will also record the time completion and error rates to document the results of the process.
