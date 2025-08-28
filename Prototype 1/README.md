@@ -69,12 +69,11 @@ This is what I need to do to setup the test and be ready for participants:
 ## Testing process (also considering the schedule/time)
 1. Explain what the application does (30 sec)
 2. Give task sheet (1 min)
-3. Run think-aloud test with 3 tasks (5–7 min)
-4. Post-test questionnaire + short interview (2–3 min)
+3. Run think-aloud test with 3 tasks (5 to 7 min)
+4. Post-test questionnaire + short interview (2 to 3 min)
 5. Debrief and thank participant
 
 **Total time:** Around 10 minutes
 
-## The Data Results:
-[Data Results on Sheets]([https://duckduckgo.com](https://docs.google.com/spreadsheets/d/1g5RWX4Smonzt1SFGs-uFqQBtsDye-Fu7-Pj2i8jb01E/edit?usp=sharing
-))
+## Results: Data Collected
+[Google Sheets Data](https://docs.google.com/spreadsheets/d/1g5RWX4Smonzt1SFGs-uFqQBtsDye-Fu7-Pj2i8jb01E/edit?usp=sharing)
