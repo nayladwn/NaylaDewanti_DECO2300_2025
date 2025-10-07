@@ -5,7 +5,7 @@ This project is an **extended reality (XR) prototype** inspired by Planner 5D. T
 The XR experience is designed to make interior design faster, more intuitive, and less stressful.
 
 
-## Testing Objective
+#### Testing Objective
 
 The purpose of this test is to evaluate how users **intuitively reposition items** in the XR environment. Specifically, we want to investigate:
 
@@ -20,7 +20,7 @@ Assumptions:
 * Users will apply real-world analogies (e.g., pushing, pulling, sliding).
 
 
-## Prototype Description
+#### Prototype Description
 
 The XR prototype contains:
 
@@ -34,9 +34,9 @@ Key Interaction Supported:
 * Repositioning furniture** using natural XR gestures.
 
 
-## Testing Methodology
+#### Testing Methodology
 
-### Method
+#### Method
 
 I will be using a think-aloud protocol in XR, adapted for headset-based testing.
 
@@ -45,7 +45,7 @@ I will be using a think-aloud protocol in XR, adapted for headset-based testing.
 * Throughout the test, participants are encouraged to verbalize their thought process.
 * If they go silent, the facilitator will prompt with: *“Please describe what you’re thinking as you try that.”*
 
-### Data Collection
+#### Data Collection
 
 * Screen capture & audio recording** of the XR session.
 * Observation notes:
@@ -67,7 +67,7 @@ I will be using a think-aloud protocol in XR, adapted for headset-based testing.
   * How would they expect repositioning to work in XR?
 
 
-## Testing Setup
+### Testing Setup
 
 * Equipment: Unity XR prototype running on Meta Quest 2 (or PC VR setup), with screen + audio recording.
 * Environment: Quiet room with space for safe XR interaction.
@@ -77,7 +77,7 @@ I will be using a think-aloud protocol in XR, adapted for headset-based testing.
   * Users can grab furniture and reposition it along the floor plane.
 
 
-## Testing Procedure
+### Testing Procedure
 
 1. Introduction (30 sec): Briefly explain the purpose of the app (room layout in XR).
 2. Task instructions (1 min): Give participants a task sheet with repositioning goals, e.g.:
@@ -93,7 +93,7 @@ I will be using a think-aloud protocol in XR, adapted for headset-based testing.
 
 5 people tested my XR prototype that lets users redesign a virtual bedroom. Each participant used the Meta Quest controllers to move and arrange furniture items around the room. The main goal was to see how intuitive the interactions felt and how easily users could move and place objects in a way that made sense to them.
 
-## Quantitative Data
+### Quantitative Data
 
 | Participant | Task Duration (min) | Errors (misgrabs, bugs, misplaced) | NASA TLX (Avg /100) | Moving Objects Easy (1–5) | Confident in Placement (1–5) | Satisfied with Prototype (1–5) |
 | ----------- | ------------------- | ---------------------------------- | ------------------- | ------------------------- | ---------------------------- | ------------------------------ |
@@ -109,7 +109,7 @@ The ray-based grabbing was also inconsistent — sometimes it wouldn’t attach 
 
 Even with those issues, everyone mentioned that the environment looked really good visually, and that the layout and lighting made it feel realistic and comfortable to interact in.
 
-## NASA-TLX Summary
+### NASA-TLX Summary
 
 | Dimension       | Mean Score (/100) | Notes                                                                        |
 | --------------- | ----------------- | ---------------------------------------------------------------------------- |
@@ -122,7 +122,7 @@ Even with those issues, everyone mentioned that the environment looked really go
 
 Overall workload averaged around 70/100, meaning the task felt fairly demanding and sometimes frustrating. People often said they knew what they wanted to do but struggled to make the prototype respond the way they expected.
 
-## Participant Quotes
+### Participant Quotes
 
 * Participant 1: “The room looks good, but grabbing was weird — sometimes it didn’t connect at all.”
 * Participant 2: “I kept trying to rotate the bed with two hands like in other VR apps, but it just didn’t work.”
@@ -142,7 +142,7 @@ Post-Test Observations
 | Visual design praised                | Maintained engagement                   | Keep aesthetic style for future iterations        |
 
 
-## Summary of Results
+### Summary of Results
 Overall, the testing showed that while the aesthetic side of the prototype worked really well, the interaction design needs improvement. Most users understood what they were supposed to do, but the bugs in grabbing and rotation made the process slower and less intuitive than expected.
 
 Even though participants found it frustrating at times, they still enjoyed the concept and saw potential in the idea. They described it as something they’d actually use if the controls felt smoother and more natural.
