@@ -1,4 +1,4 @@
-# Interactive Prototype 2: Redecorating a Room
+# Prototype 2 - Vertical Unity Prototype
 
 This project is an **extended reality (XR) prototype** inspired by Planner 5D. The goal is to create an immersive version of a room planning app where users can interact directly with 3D furniture in a virtual environment. Instead of manually measuring or guessing layouts, users can reposition items naturally in XR to visualize their designs.
 
