@@ -124,11 +124,11 @@ Overall workload averaged around 70/100, meaning the task felt fairly demanding 
 
 ## Participant Quotes
 
-Participant 1: “The room looks good, but grabbing was weird — sometimes it didn’t connect at all.”
-Participant 2: “I kept trying to rotate the bed with two hands like in other VR apps, but it just didn’t work.”
-Participant 3: “It was a bit clunky, but I eventually managed to move things where I wanted. The visuals were nice though.”
-Participant 4: “Really liked the vibe of the bedroom, but I wasn’t sure when I actually grabbed something or not.”
-Participant 5: “It reminded me of The Sims in VR — I’d totally use it if the controls were smoother.”
+* Participant 1: “The room looks good, but grabbing was weird — sometimes it didn’t connect at all.”
+* Participant 2: “I kept trying to rotate the bed with two hands like in other VR apps, but it just didn’t work.”
+* Participant 3: “It was a bit buggy, but I eventually managed to move things, not exactly where I wanted to be honest. The visuals were nice though.”
+* Participant 4: “Really liked the vibe of the bedroom, but I wasn’t sure when I actually grabbed something or not.”
+* Participant 5: “It reminded me of The Sims in VR — I’d use it if the controls were smoother.”
 
 
 Post-Test Observations
