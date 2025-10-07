@@ -91,4 +91,66 @@ I will be using a think-aloud protocol in XR, adapted for headset-based testing.
 4. Post-test questionnaire + interview (2–3 min).
 5. Debrief (30 sec): Thank participants and explain purpose.
 
-Total Time: ~10 minutes per participant.
+# User Testing Results: XR Bedroom Redesign Prototype
+
+## Overview
+5 people tested my XR prototype that lets users redesign a virtual bedroom. Each participant used the Meta Quest controllers to move and arrange furniture items around the room. The main goal was to see how intuitive the interactions felt and how easily users could move and place objects in a way that made sense to them.
+
+## Quantitative Data
+
+| Participant | Task Duration (min) | Errors (misgrabs, bugs, misplaced) | NASA TLX (Avg /100) | Moving Objects Easy (1–5) | Confident in Placement (1–5) | Satisfied with Prototype (1–5) |
+| ----------- | ------------------- | ---------------------------------- | ------------------- | ------------------------- | ---------------------------- | ------------------------------ |
+| P1          | 9.5                 | 7                                  | 68                  | 3                         | 2                            | 3                              |
+| P2          | 11.2                | 10                                 | 74                  | 2                         | 2                            | 2                              |
+| P3          | 8.8                 | 6                                  | 65                  | 3                         | 3                            | 3                              |
+| P4          | 10.6                | 9                                  | 72                  | 2                         | 2                            | 3                              |
+| P5          | 9.9                 | 8                                  | 70                  | 3                         | 3                            | 4                              |
+| Average     | 10.0                | 8                                  | 70                  | 2.6                       | 2.4                          | 3.0                            |
+
+Most participants took around 10 minutes to finish redesigning the room, which was a bit longer than expected because some of the features (like rotation) didn’t work as intended.
+The ray-based grabbing was also inconsistent — sometimes it wouldn’t attach properly, which caused people to make more mistakes and retry actions.
+
+Even with those issues, everyone mentioned that the environment looked really good visually, and that the layout and lighting made it feel realistic and comfortable to interact in.
+
+## NASA-TLX Workload Summary
+
+| Dimension       | Mean Score (/100) | Notes                                                                        |
+| --------------- | ----------------- | ---------------------------------------------------------------------------- |
+| Mental Demand   | 72                | Users had to figure out how to grab and move things due to unclear feedback. |
+| Physical Demand | 65                | Extra effort from repeatedly re-grabbing and adjusting furniture.            |
+| Temporal Demand | 68                | Tasks took longer because of bugs and slow response.                         |
+| Performance     | 58                | Users completed the room, but often not how they wanted.                     |
+| Effort          | 76                | Needed to retry actions several times to get precision.                      |
+| Frustration     | 80                | Highest rating — mostly from the non-working rotation and glitchy ray grabs. |
+
+Overall workload averaged around 70/100, meaning the task felt fairly demanding and sometimes frustrating. People often said they knew what they wanted to do but struggled to make the prototype respond the way they expected.
+
+## Participant Quotes
+
+Participant 1: “The room looks good, but grabbing was weird — sometimes it didn’t connect at all.”
+Participant 2: “I kept trying to rotate the bed with two hands like in other VR apps, but it just didn’t work.”
+Participant 3: “It was a bit clunky, but I eventually managed to move things where I wanted. The visuals were nice though.”
+Participant 4: “Really liked the vibe of the bedroom, but I wasn’t sure when I actually grabbed something or not.”
+Participant 5: “It reminded me of The Sims in VR — I’d totally use it if the controls were smoother.”
+
+---
+
+Post-Test Observations
+
+| Observation                          | Impact                                  | Recommendation                                    |
+| ------------------------------------ | --------------------------------------- | ------------------------------------------------- |
+| Ray-based grab didn’t always work    | Slowed progress and caused frustration  | Improve ray accuracy or add direct hand grabbing  |
+| Rotation interaction missing         | Users couldn’t align furniture properly | Add two-hand rotation or a rotation tool          |
+| Objects floated or got stuck mid-air | Reduced sense of realism                | Lock Y position to ground plane                   |
+| Interface slightly cluttered         | Slowed discovery of controls            | Simplify menu layout and highlight main functions |
+| Visual design praised                | Maintained engagement                   | Keep aesthetic style for future iterations        |
+
+
+## Summary of Results
+Overall, the testing showed that while the aesthetic side of the prototype worked really well, the interaction design needs improvement. Most users understood what they were supposed to do, but the bugs in grabbing and rotation made the process slower and less intuitive than expected.
+
+Even though participants found it frustrating at times, they still enjoyed the concept and saw potential in the idea. They described it as something they’d actually use if the controls felt smoother and more natural.
+
+For the next version, I’ll focus on fixing the ray grab accuracy, adding rotation functionality, and improving object grounding so items move more predictably.
+
+
