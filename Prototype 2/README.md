@@ -1,6 +1,4 @@
-# Immersive Interior Design XR: User Testing Plan
-
-## Overview
+# Interactive Prototype 2: Redecorating a Room
 
 This project is an **extended reality (XR) prototype** inspired by Planner 5D. The goal is to create an immersive version of a room planning app where users can interact directly with 3D furniture in a virtual environment. Instead of manually measuring or guessing layouts, users can reposition items naturally in XR to visualize their designs.
 
@@ -91,9 +89,8 @@ I will be using a think-aloud protocol in XR, adapted for headset-based testing.
 4. Post-test questionnaire + interview (2–3 min).
 5. Debrief (30 sec): Thank participants and explain purpose.
 
-# User Testing Results: XR Bedroom Redesign Prototype
+# Testing Results!
 
-## Overview
 5 people tested my XR prototype that lets users redesign a virtual bedroom. Each participant used the Meta Quest controllers to move and arrange furniture items around the room. The main goal was to see how intuitive the interactions felt and how easily users could move and place objects in a way that made sense to them.
 
 ## Quantitative Data
@@ -112,7 +109,7 @@ The ray-based grabbing was also inconsistent — sometimes it wouldn’t attach 
 
 Even with those issues, everyone mentioned that the environment looked really good visually, and that the layout and lighting made it feel realistic and comfortable to interact in.
 
-## NASA-TLX Workload Summary
+## NASA-TLX Summary
 
 | Dimension       | Mean Score (/100) | Notes                                                                        |
 | --------------- | ----------------- | ---------------------------------------------------------------------------- |
@@ -133,7 +130,6 @@ Participant 3: “It was a bit clunky, but I eventually managed to move things w
 Participant 4: “Really liked the vibe of the bedroom, but I wasn’t sure when I actually grabbed something or not.”
 Participant 5: “It reminded me of The Sims in VR — I’d totally use it if the controls were smoother.”
 
----
 
 Post-Test Observations
 
