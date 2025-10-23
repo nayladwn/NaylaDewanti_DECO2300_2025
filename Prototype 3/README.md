@@ -39,7 +39,7 @@ The XR prototype includes:
 
 * Move and rotate furniture.
 * Paint walls with new colors or materials.
-* Walk or teleport around the apartment.
+* Walk around the apartment.
 
 
 ## Testing Methodology
