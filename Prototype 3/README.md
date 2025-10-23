@@ -114,10 +114,3 @@ I’ll collect both **observation data** and user feedback.
 | 6. Post-test questions + interview | 3–5 min | Ask for feedback and thoughts.                                                             |
 | 7. Debrief                         | 30 sec  | Thank them and explain the purpose again.                                                  |
 
-## What Success Looks Like
-
-* Users can complete all tasks without needing much help.
-* They describe the interactions as “easy,” “fun,” or “natural.”
-* Everyone finishes within about 10 minutes.
-* They show minimal confusion or hesitation.
-* Positive feedback in the questionnaire and comments.
